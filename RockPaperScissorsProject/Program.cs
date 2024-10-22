@@ -51,8 +51,8 @@ namespace RockPaperScissorsProject
 
                 Console.WriteLine("\n\n==================================================================");
                 Console.WriteLine("List of Weapons : ");
-                Console.WriteLine("1.Rock");
-                Console.WriteLine("2.Paper");
+                Console.WriteLine("1.Paper");
+                Console.WriteLine("2.Rock");
                 Console.WriteLine("3.Scissors");
                 Console.WriteLine("4.Exit to The Main Menu");
                 Console.Write("Enter The Weapon You Choose : ");
